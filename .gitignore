@@ -1,0 +1,33 @@
+# Artefactos intermedios de compilación (NO los binarios finales en bin/)
+build/
+/main           # copia stripped en la raíz; src/main.cpp NO se ve afectado
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Editores / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs locales
+*.log
+edusec.log
+
+# Mantener artefactos de entrega versionados
+!bin/
+!bin/main
+!bin/main-debug
+!analysis/
+!analysis/*
+!evidence/
+!evidence/*
