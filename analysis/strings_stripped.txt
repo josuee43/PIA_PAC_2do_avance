@@ -1,0 +1,314 @@
+/lib64/ld-linux-x86-64.so.2
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7compareEPKc
+_ZNSt6localeD1Ev
+_ZSt20__throw_length_errorPKc
+_ZTTNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEEE
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_assignERKS4_
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED1Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_appendEPKcm
+_ZTVNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEEE
+_ZNSt9basic_iosIcSt11char_traitsIcEE5clearESt12_Ios_Iostate
+_ZTVSt14basic_ifstreamIcSt11char_traitsIcEE
+_ZNSt8ios_baseD2Ev
+_ZNSdD2Ev
+_ZNSo9_M_insertIlEERSoT_
+_ZdlPvm
+_ZNSolsEi
+_ZTTSt14basic_ifstreamIcSt11char_traitsIcEE
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7reserveEm
+_ZNSo9_M_insertImEERSoT_
+_ZNSt13basic_filebufIcSt11char_traitsIcEE5closeEv
+_ZNKSt5ctypeIcE8do_widenEc
+_ZSt24__throw_invalid_argumentPKc
+_ZNSi4readEPcl
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEE7_M_syncEPcmm
+_ZTVSt15basic_streambufIcSt11char_traitsIcEE
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE5rfindEPKcmm
+_ZNSt8ios_base4InitD1Ev
+_ZNSt13basic_filebufIcSt11char_traitsIcEED1Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_replaceEmmPKcm
+_ZSt7getlineIcSt11char_traitsIcESaIcEERSt13basic_istreamIT_T0_ES7_RNSt7__cxx1112basic_stringIS4_S5_T1_EES4_
+_ZTVNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEEE
+_ZTTNSt7__cxx1119basic_istringstreamIcSt11char_traitsIcESaIcEEE
+_ZTTNSt7__cxx1118basic_stringstreamIcSt11char_traitsIcESaIcEEE
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findEcm
+_ZNSt6localeC1Ev
+_ZTVNSt7__cxx1119basic_istringstreamIcSt11char_traitsIcESaIcEEE
+__cxa_begin_catch
+_ZTVNSt7__cxx1118basic_stringstreamIcSt11char_traitsIcESaIcEEE
+_ZSt4cerr
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED0Ev
+_ZNSolsEPSt15basic_streambufIcSt11char_traitsIcEE
+_ZSt16__throw_bad_castv
+_ZNSt8ios_baseC2Ev
+_ZNSt13basic_filebufIcSt11char_traitsIcEE4openEPKcSt13_Ios_Openmode
+_ZNSt6chrono3_V212steady_clock3nowEv
+__gxx_personality_v0
+_ZNSt7__cxx1115basic_stringbufIcSt11char_traitsIcESaIcEED2Ev
+_ZTVSt13basic_filebufIcSt11char_traitsIcEE
+_ZSt16__ostream_insertIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_PKS3_l
+_ZNKSt5ctypeIcE13_M_widen_initEv
+_ZNSt12__basic_fileIcED1Ev
+_ZNSt14basic_ifstreamIcSt11char_traitsIcEED1Ev
+_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+_ZTVSt9basic_iosIcSt11char_traitsIcEE
+_ZNSt9basic_iosIcSt11char_traitsIcEE4initEPSt15basic_streambufIcS1_E
+_ZNSt8ios_base4InitC1Ev
+_ZNSt13basic_filebufIcSt11char_traitsIcEEC1Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_createERmm
+__cxa_rethrow
+_ZNSt7__cxx1119basic_ostringstreamIcSt11char_traitsIcESaIcEED1Ev
+_ZSt24__throw_out_of_range_fmtPKcz
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_mutateEmmPKcm
+_ZNSt7__cxx1118basic_stringstreamIcSt11char_traitsIcESaIcEED1Ev
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv
+_ZSt4cout
+_ZSt20__throw_out_of_rangePKc
+_ZNKSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4findEPKcmm
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE8_M_eraseEmm
+_ZStplIcSt11char_traitsIcESaIcEENSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_RKS8_
+_ZNSt7__cxx1119basic_istringstreamIcSt11char_traitsIcESaIcEED1Ev
+__cxa_end_catch
+_ZStrsIcSt11char_traitsIcESaIcEERSt13basic_istreamIT_T0_ES7_RNSt7__cxx1112basic_stringIS4_S5_T1_EE
+_ZSt19__throw_logic_errorPKc
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructEmc
+_Unwind_Resume
+inet_ntop
+__fdelt_chk
+__cxa_finalize
+freeaddrinfo
+connect
+memmove
+__libc_start_main
+strtoul
+socket
+inet_pton
+__cxa_atexit
+strtol
+select
+closedir
+tolower
+strlen
+memcmp
+getaddrinfo
+memcpy
+opendir
+strerror
+__errno_location
+getsockopt
+readdir
+__stack_chk_fail
+setsockopt
+libstdc++.so.6
+libgcc_s.so.1
+libc.so.6
+GCC_3.0
+GLIBCXX_3.4.20
+GLIBCXX_3.4.19
+GLIBCXX_3.4.11
+CXXABI_1.3.9
+GLIBCXX_3.4.9
+CXXABI_1.3
+GLIBCXX_3.4.21
+GLIBCXX_3.4
+GLIBC_2.15
+GLIBC_2.4
+GLIBC_2.14
+GLIBC_2.34
+GLIBC_2.2.5
+|$pH;|$
+H;|$Ht
+AWAVAUI
+l$8H;l$@u
+D$xdH+
+[]A\A]A^A_
+AWAVAUATUH
+D$8dH+
+H[]A\A]A^A_
+D$rvH)
+H;|$0t
+|$`H;|$(t
+[]A\A]A^A_
+H+D$HH
+H;|$@t
+H+D$HH
+AWAVAUATI
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+|$PH;|$
+|$0H;|$
+[]A\A]A^A_
+AWAVAUATUSH
+H;|$ t
+H;|$(t
+H;|$Ht
+H;|$@t
+H;|$8t
+H;|$0t
+H;|$ t
+H;|$(t
+H;|$Ht
+H;|$@t
+H;|$8t
+H;|$0t
+H;|$pt
+H;|$xt
+[]A\A]A^A_
+[]A\A]
+AVAUATUH
+H;|$0t
+t$ H+t$8H
+H;|$@t
+[]A\A]A^A_
+H;|$Ht
+H;|$Ht
+AVAUATUSH
+[]A\A]A^A_
+AVAUATUSH
+H;|$ t
+[]A\A]A^A_
+AVAUATUSH
+[]A\A]A^A_
+[]A\A]A^A_
+AWAVAUI
+[]A\A]A^A_
+AWAVAUATUSH
+H;|$Pt
+[]A\A]A^A_
+H;|$ t
+|$pH;|$
+===============================================
+  PIA PAC Ene-Jun 2026 - GRUPO 01
+  Uso educativo exclusivo en VMs aisladas
+  hash    Hashing FNV-1a/32 o SHA-256 de cadena o archivo
+          [--algo fnv|sha256]  --string <txt> | --file <ruta>
+  procs   Enumera procesos v
+a /proc (Linux)
+  scan    TCP connect-scan con banner-grab opcional
+          --host <ip|host>  --ports <p1,p2,..>  [--banner]
+  brute   Ataque por diccionario contra hash FNV/SHA-256
+          --algo fnv|sha256 --hash <hex> --wordlist <ruta> [--limit N]
+  sniff   Captura pasiva de paquetes (Linux AF_PACKET, root)
+          [--count <N>]      Detiene tras N paquetes (default 20)
+  mem     Inspecciona /proc/<pid>/maps de un proceso
+  --help, -h    Muestra esta ayuda
+  --version     Imprime versi
+  EduSec Toolkit v
+0.2.0-avance2
+ <subcomando> [opciones]
+Subcomandos:
+          --pid <PID>
+--help
+--version
+[!] Subcomando desconocido: 
+vector::_M_realloc_insert
+basic_string::_M_construct null not valid
+Uso: brute --algo fnv|sha256 --hash <hex> 
+--wordlist <ruta> [--limit N]
+[!] No se pudo abrir diccionario: 
+--------------------------------
+--algo
+--hash
+--wordlist
+--limit
+sha256
+[brute] algo=
+  hash=
+  wordlist=
+  limit=
+[+] MATCH encontrado en 
+ intentos (
+    password = "
+[-] Sin match. Probadas 
+ palabras en 
+[!] No se pudo abrir: 
+SHA-256(file)    = 
+ bytes: 
+FNV1a-32(file)   = 0x
+ bytes le
+--string
+--file
+FNV1a-32(string) = 0x
+SHA-256(string)  = 
+Uso: hash [--algo fnv|sha256] --string <texto> | --file <ruta>
+[!] --algo soporta: fnv | sha256
+[!] PID inv
+lido o sin permiso: 
+%s: __pos (which is %zu) > this->size() (which is %zu)
+------------------------------------------------------------
+ START-END                  PERMS  TAG    PATH
+posible shellcode o JIT! revisar.
+basic_string::append
+Uso: mem --pid <PID>
+/status
+[mem] inspecci
+n de PID 
+basic_string::substr
+VmPeak:
+VmRSS:
+[!] No se pudo leer /proc/
+Total regiones: 
+   Regiones RWX: 
+Uso: scan --host <ip|host> --ports <p1,...> [--banner]
+[!] No se pudo resolver el host: 
+----------------------------------------------------------
+CERRADO  
+ABIERTO  
+  [+banner]
+--banner
+--host
+--ports
+[scan] objetivo: 
+ PUERTO   ESTADO    BANNER
+Resumen: 
+ abiertos / 
+ probados
+[!] /proc no accesible.
+Total: 
+ procesos
+--count
+[sniffer] Capturando hasta 
+ paquetes (Ctrl-C aborta)
+[!] recv: 
+  non-IPv4 (eth_proto=0x
+IPproto=
+  sport=
+  dport=
+  flags=
+  bytes=
+[sniffer] 
+ paquetes procesados
+[!] socket(AF_PACKET) fall
+    Requiere CAP_NET_RAW. Ejecuta con sudo.
+------------------------------------------------------
+GCC: (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
+.shstrtab
+.interp
+.note.gnu.property
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.plt.got
+.plt.sec
+.rodata
+.eh_frame_hdr
+.eh_frame
+.gcc_except_table
+.init_array
+.fini_array
+.data.rel.ro
+.dynamic
+.comment
